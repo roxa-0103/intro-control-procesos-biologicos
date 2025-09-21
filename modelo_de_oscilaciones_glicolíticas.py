@@ -36,7 +36,7 @@ Esta fórmula se conoce como *método de Euler* (o de *Euler-Cauchy* o de *punto
 en el valor original de $x$) para extrapolar linealmente sobre el tamaño de paso $h$ (Chapra, R. P. y P. Canale, R. 2007. pp. 720).
 """
 
-#Elaborado por: Roxana Uzcátegui Cañas
+#Elaborado por: Me
 
 #En este código se simula cómo cambian las concentraciones de ATP y GLU con el tiempo usando el método de Euler y basado en el modelo de Bier, Bakker y Westerhoff (2000)
 
